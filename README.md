@@ -1,5 +1,5 @@
 # API de uma Loja de Jogos
-Fábrica de Software 2023.2 - Desafio Workshop BackEnd
+- Fábrica de Software 2023.2 - Desafio Workshop BackEnd
 
 Esta é uma API que demonstra o funcionamento das 4 operações(get, post, put e delete), usando o Django Rest Framework sobre uma loja de jogos, da qual apresenta o desenvolvedor do jogo e as informações do jogo, tendo também a opção de recolher os dados do cliente durante o processo de compra do jogo. Nesta API, lidei com três entidades principais (serializers, que traduz objetos em representações JSON e vice-versa.): "Jogo", "Desenvolvedor" e "Cliente".
 
