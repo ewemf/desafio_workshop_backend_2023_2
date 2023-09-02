@@ -12,7 +12,7 @@ Esta é uma API que demonstra o funcionamento das 4 operações(get, post, put e
 - Python
 - Django Rest Framework
 - Ambiente Virtual
-- Dependências do Projeto (requirements.txt)
+- Dependências do Projeto (está no arquivo: requirements.txt)
 
 # Funcionalidades Principais
 - Você fornece os detalhes do jogo no corpo da solicitação, como o título, desenvolvedor, gênero, plataforma e preço. E também do desenvolvedor (nome e sede) e do cliente (nome, endereço e telefone). Permite listar todos os jogos disponíveis na loja de jogos ou obter detalhes de um jogo específico com base em seu ID e também permite excluir as informações conseguidas com base em seu ID pelo acesso ao admin.
